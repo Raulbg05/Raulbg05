@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Raúl Beltrán
 
-<!--
-**Raulbg05/Raulbg05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de **1º DAM** (Desarrollo de Aplicaciones Multiplataforma).  
+💻 Apasionado por la programación, el desarrollo de software y el aprendizaje continuo.  
+🚀 Mi objetivo es crecer como desarrollador y crear proyectos que resuelvan problemas reales.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tecnologías que estoy aprendiendo
+- 🌱 **Lenguajes:** Java, SQL, XML, HTML, CSS  
+- 📱 **Entornos de desarrollo:** Android Studio, Visual Studio Code, IntelliJ IDEA  
+- 🛠️ **Otros:** Git, GitHub, control de versiones  
+
+---
+
+## 📌 Mis intereses
+- Desarrollo de aplicaciones móviles 📱  
+- Bases de datos y gestión de información 🗄️  
+- Programación orientada a objetos 🔑  
+- Proyectos colaborativos en GitHub 🤝  
+
+
+---
+
+## 🌟 Un poco más sobre mí
+- 🚴‍♂️ Me gusta aprender cosas nuevas cada día.  
+- 🤓 Estoy construyendo mi portfolio desde cero.  
+- 🧩 Me encanta resolver retos de programación y mejorar mis habilidades.  
+
+---
+
+👉 ¡Visita mis repositorios y acompáñame en este camino de aprendizaje!  
