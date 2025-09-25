@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Raúl Beltrán
 
-# 💫 obre Mí:
+# 💫 Sobre Mí:
 🎓 Estudiante de 1º DAM (Desarrollo de Aplicaciones Multiplataforma).<br>💻 Apasionado por la programación, el desarrollo de software y el aprendizaje continuo.<br>🚀 Mi objetivo es crecer como desarrollador y crear proyectos que resuelvan problemas reales.<br>---<br>🔧 Tecnologías que estoy aprendiendo<br>🌱 Lenguajes: Java, SQL, XML, HTML, CSS<br>📱 Entornos de desarrollo: Android Studio, Visual Studio Code, IntelliJ IDEA<br>🛠️ Otros: Git, GitHub, control de versiones<br>📌 Mis intereses<br>---<br>Desarrollo de aplicaciones móviles 📱<br>Bases de datos y gestión de información 🗄️<br>Programación orientada a objetos 🔑<br>Proyectos colaborativos en GitHub 🤝<br>
 
 
