@@ -19,6 +19,11 @@
 - Programación orientada a objetos 🔑  
 - Proyectos colaborativos en GitHub 🤝  
 
+---
+
+## 📊 Estadísticas de GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raulbg05&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raulbg05&layout=compact&theme=tokyonight)  
 
 ---
 
